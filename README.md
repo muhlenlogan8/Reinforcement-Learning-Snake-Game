@@ -1,8 +1,8 @@
 # Reinforcement-Learning-Snake-Game
 
-I made this coding following the tutorial here: https://www.youtube.com/watch?v=L8ypSXwyBds
+I following the tutorial here to complete this project: https://www.youtube.com/watch?v=L8ypSXwyBds
 
-Mainly followed along and wrote along with the video but added comments to help myself understand the code's functionality.
+I mainly followed along with the video and wrote notes, adding comments to help myself understand the code's functionality. This project could serve as a foundation for future neural network projects. Building on this, other game ideas come to mind that could benefit from neural network solvers, such as Minesweeper. Creating an agent to solve Minesweeper could provide an entertaining loop of continuous and rapid playthroughs of the game. Overall, I hope to expand upon this project and use it as a reference for future endeavors.
 
 The project contains...
 
